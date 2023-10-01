@@ -35,7 +35,8 @@ header {
 .login-button,
 .signup-button,
 .buy-button,
-.cart-button {
+.cart-button,
+.see-more-button {
     background-color: #007bff;
     color: #fff;
     border: none;
